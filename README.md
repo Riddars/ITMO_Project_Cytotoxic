@@ -8,9 +8,9 @@ Roadmap:
 1) Download dataset
 2) Add missing descriptors
 3) Clean the dataset
-   [ ] remove unrepresentative information
-   [ ] normalization
-   [ ] Encoding
+   - [ ] remove unrepresentative information
+   - [ ] normalization
+   - [ ] Encoding
 5) Data visualization (done between step 2 and 3 too)
 6) Building regression models to predict the survival column
 7) Optimization of the selected model
