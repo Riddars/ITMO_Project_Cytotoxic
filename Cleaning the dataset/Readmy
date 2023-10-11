@@ -1,1 +1,3 @@
 This folder contains code to help clear the dataset of unnecessary descriptors and extreme values.
+DF_with_actual_Decriptors.ipynb - file in which we remove unnecessary descriptors based on the importance score.
+All_description_Without_Extrim_vaules - clearing the dataset of extreme values
