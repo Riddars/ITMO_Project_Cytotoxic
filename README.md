@@ -20,5 +20,12 @@ Participants:
 1) Arsen Sarkisyan
 2) Nam Evgeniy
 3) Anna Delova
-   
-Cytotoxicity.csv - main dataset
+
+The names of the folders correspond to their purpose. The main branch contains the final versions of works from each branch, these versions are contained in the folders and are labeled "final".
+You can familiarize yourself with the work process by navigating through the commits history or by going to one of the branches, not counting the main branch. These branches contain intermediate files and drafts.
+Running the code:
+1) download the "Final_programm.ipynb" file
+2) open Google collab
+3) In Google collab, click: file - open notepad - upload
+4) Upload the downloaded file "Final_programm.ipynb"
+5) Execute all the code in order by clicking: run environment - execute all
