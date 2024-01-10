@@ -19,7 +19,6 @@ Roadmap:
 Participants:
 1) Arsen Sarkisyan
 2) Nam Evgeniy
-3) Anna Delova
 
 The names of the folders correspond to their purpose. The main branch contains the final versions of works from each branch, these versions are contained in the folders and are labeled "final".
 You can familiarize yourself with the work process by navigating through the commits history or by going to one of the branches, not counting the main branch. These branches contain intermediate files and drafts.
